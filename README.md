@@ -1,1 +1,15 @@
-# bayesian_analysis_with_python
+# Pythonによるベイズ統計モデリング
+
+
+1. ベイズ定理の基本
+2. 確率の基本
+3. 統計推論の基本
+4. 統計モデリングの基本
+5. 分散分析の基本
+6. ベイズ推論の基本（共役事前分布など）
+
+
+#### 参考文献
+
+- Pythonで学ぶあたらしい統計学の教科書 (AI & TECHNOLOGY), 2018 [[書籍](https://www.amazon.co.jp/Python%E3%81%A7%E5%AD%A6%E3%81%B6%E3%81%82%E3%81%9F%E3%82%89%E3%81%97%E3%81%84%E7%B5%B1%E8%A8%88%E5%AD%A6%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-AI-TECHNOLOGY-%E9%A6%AC%E5%A0%B4-%E7%9C%9F%E5%93%89/dp/4798155063\]
+- Pythonによるベイズ統計モデリング: PyMCでのデータ分析実践ガイド, 2018 [[書籍](https://www.amazon.co.jp/Python%E3%81%AB%E3%82%88%E3%82%8B%E3%83%99%E3%82%A4%E3%82%BA%E7%B5%B1%E8%A8%88%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0-PyMC%E3%81%A7%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-Osvaldo-Martin/dp/4320113373)\]
